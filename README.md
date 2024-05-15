@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @harikrishnabaskaran
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Reactjs
-- 💞️ I’m looking to collaborate on Reputed Company
+- 👀 I’m interested in Web Development and Android Development
+- 🌱 I’m currently learning Vue.js
 - 📫 How to reach me "harikrishnabaskaran12@gmail.com" & https://harikbportfolio.000webhostapp.com/#
 
 
