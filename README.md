@@ -26,7 +26,7 @@
 
 
 
-✩✩▁𝐀𝐏𝐈 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬▁✩✩
+✩✩▁𝐀𝐏𝐈 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠y▁✩✩
 
 ![icons8-graphql-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/005e8fa3-ffc5-4e93-a421-67acf21c2beb)
 
