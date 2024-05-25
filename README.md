@@ -7,7 +7,7 @@
 "Technologies, which I have been worked 👨‍💻"
 
 ✩✩▆▅▃▂▁𝐖𝐞𝐛 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬▁▂▃▅▆✩✩
-
+                 
 ![icons8-html-logo-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/407dc889-b825-4e3d-b28d-9e602709af4a)
 ![icons8-css-logo-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/aeb473a1-b487-47d4-b6a5-9ecb668bacd3)
 ![icons8-javascript-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/d12e6da8-a08b-4340-a459-f659b6558540)
@@ -16,14 +16,20 @@
 ![icons8-nextjs-48 (3)](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/1ec2166d-edfc-48f8-8da1-3dee88a1cb7c)
 ![icons8-vuejs-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/e905c4ac-f412-45a2-9d72-e7b7e401ded5)
 
+
+
 ✩✩▆▅▃▂▁𝐀𝐧𝐝𝐫𝐨𝐢𝐝 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬▁▂▃▅▆✩✩
 
 ![icons8-kotlin-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/2bc7ebaf-bb3f-4e95-8456-e90f105b74c3)
 ![icons8-android-logo-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/80fcdb38-1fa5-4f00-8b67-88119357f819)
 
+
+
 ✩✩▆▅▃▂▁𝐀𝐏𝐈 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬▁▂▃▅▆✩✩
 
 ![icons8-graphql-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/005e8fa3-ffc5-4e93-a421-67acf21c2beb)
+
+
 
 ✩▆▅▃▂▁𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬▁▂▃▅▆✩
 
