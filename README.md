@@ -1,8 +1,8 @@
 
 - 👋 Hi, I’m @harikrishnabaskaran
 - 👀 I’m interested in Web Development and Android Development
-- 
-- 🌱 I’m currently learning ![icons8-kotlin-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/2bc7ebaf-bb3f-4e95-8456-e90f105b74c3)
+- 🌱 I’m currently learning
+-  ![icons8-kotlin-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/2bc7ebaf-bb3f-4e95-8456-e90f105b74c3)
 - 
 - 📫 How to reach me "harikrishnabaskaran12@gmail.com" & https://harikbportfolio.000webhostapp.com/#
 
