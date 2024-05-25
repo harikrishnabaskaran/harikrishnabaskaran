@@ -25,12 +25,13 @@
 
 ![icons8-graphql-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/005e8fa3-ffc5-4e93-a421-67acf21c2beb)
 
-✩✩▆▅▃▂▁𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬▁▂▃▅▆✩✩
+✩▆▅▃▂▁𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬▁▂▃▅▆✩
 
 ![icons8-my-sql-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/e8316b7d-194a-4f70-9275-c20ecb532ca5)
 ![icons8-mysql-logo-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/0cb6ba24-8a47-4c0e-a0cf-9cf3bdf052d8)
 
 ✩✩▆▅▃▂▁𝐎𝐒▂▃▅▆✩✩
+
 ![icons8-windows-11-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/d4b3d546-912a-4da9-a544-d0876c1bf139)
 ![icons8-linux-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/431b59f2-f70d-4c94-90ec-c4d6fa4f6be6)
 ![icons8-apple-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/e80a9c81-020b-4200-a3f3-683a3b16f9d8)
