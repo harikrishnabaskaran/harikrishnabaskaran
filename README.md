@@ -3,7 +3,7 @@
 - 👀 I’m interested in Web Development and Android Development
 - 🌱 I’m currently learning Kotlin
 - 📫 How to reach me "harikrishnabaskaran12@gmail.com" & https://harikbportfolio.000webhostapp.com/#
-- 
+  
 "Technologies, which I have been worked 👨‍💻"
 
 WEB TECHNOLOGIES:
@@ -13,7 +13,7 @@ WEB TECHNOLOGIES:
 ![icons8-javascript-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/d12e6da8-a08b-4340-a459-f659b6558540)
 ![icons8-bootstrap-logo-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/c2e6562c-80b0-4961-aa37-a0c5da7ccb18)
 ![icons8-react-native-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/f51306e2-1e6a-4dc8-828f-a9572dd5b756)
-![icons8-next js-48 (1)](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/5a628122-d038-44e5-be06-c9d4d4b5d003)
+![icons8-nextjs-48 (1)](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/469bb954-479b-4422-baab-e3411360fbd5)
 ![icons8-vuejs-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/e905c4ac-f412-45a2-9d72-e7b7e401ded5)
 
 ANDROID TECHNOLOGIES:
