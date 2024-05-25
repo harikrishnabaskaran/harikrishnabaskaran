@@ -34,6 +34,7 @@ OS:
 
 ![icons8-windows-11-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/d4b3d546-912a-4da9-a544-d0876c1bf139)
 ![icons8-linux-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/431b59f2-f70d-4c94-90ec-c4d6fa4f6be6)
+![icons8-apple-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/e80a9c81-020b-4200-a3f3-683a3b16f9d8)
 
 
 
