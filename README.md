@@ -6,7 +6,7 @@
   
 "Technologies, which I have been worked 👨‍💻"
 
-✩▅▃▂▁𝐖𝐞𝐛 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬▁▂▃▅✩:+
+✩▅▃▂▁𝐖𝐞𝐛 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬▁▂▃▅✩
 
 ![icons8-html-logo-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/407dc889-b825-4e3d-b28d-9e602709af4a)
 ![icons8-css-logo-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/aeb473a1-b487-47d4-b6a5-9ecb668bacd3)
