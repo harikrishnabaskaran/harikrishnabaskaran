@@ -16,7 +16,7 @@
 ![icons8-nextjs-48 (3)](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/1ec2166d-edfc-48f8-8da1-3dee88a1cb7c)
 ![icons8-vuejs-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/e905c4ac-f412-45a2-9d72-e7b7e401ded5)
 
-ANDROID TECHNOLOGIES:
+✩▅▃▂▁𝐀𝐧𝐝𝐫𝐨𝐢𝐝 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬▁▂▃▅✩
 
 ![icons8-kotlin-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/2bc7ebaf-bb3f-4e95-8456-e90f105b74c3)
 ![icons8-android-logo-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/80fcdb38-1fa5-4f00-8b67-88119357f819)
