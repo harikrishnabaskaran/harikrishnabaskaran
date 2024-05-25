@@ -7,12 +7,13 @@
 "Technologies, which I have been worked 👨‍💻"
 
 WEB TECHNOLOGIES:
-
-![icons8-html-logo-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/203df11a-0102-474c-a178-b65b6bd83e48) ![icons8-css-logo-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/3186ab04-e1ff-43f7-9880-85fa88b9574e) 
-![icons8-javascript-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/fd82510b-0792-4656-a34c-9c8cb7c2132f) ![icons8-bootstrap-logo-48]
-
-(https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/9eeabd61-5542-41c4-8ac6-d38e8d797afa) ![icons8-next js-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/3224dd56-211b-47de-9b05-e79b67e747bc)
-![icons8-vuejs-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/8854d939-a9f8-4c0c-9ff4-b61d2c9f0457)
+![icons8-html-logo-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/407dc889-b825-4e3d-b28d-9e602709af4a)
+![icons8-css-logo-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/aeb473a1-b487-47d4-b6a5-9ecb668bacd3)
+![icons8-javascript-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/d12e6da8-a08b-4340-a459-f659b6558540)
+![icons8-bootstrap-logo-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/c2e6562c-80b0-4961-aa37-a0c5da7ccb18)
+![icons8-react-native-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/f51306e2-1e6a-4dc8-828f-a9572dd5b756)
+![icons8-next js-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/36806e8a-4883-4920-89af-027f39d1e5ef)
+![icons8-vuejs-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/e905c4ac-f412-45a2-9d72-e7b7e401ded5)
 
 ANDROID TECHNOLOGIES:
 
