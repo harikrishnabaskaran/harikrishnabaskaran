@@ -3,4 +3,5 @@
 - 🌱 I’m currently learning Vue.js and Kotlin
 - 📫 How to reach me "harikrishnabaskaran12@gmail.com" & https://harikbportfolio.000webhostapp.com/#
 
-![kotlin (1)](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/4e814c16-56da-4db3-974d-2b020a3c75b7)
+![icons8-html-logo-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/203df11a-0102-474c-a178-b65b6bd83e48)
+
