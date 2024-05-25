@@ -13,7 +13,7 @@ WEB TECHNOLOGIES:
 ![icons8-javascript-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/d12e6da8-a08b-4340-a459-f659b6558540)
 ![icons8-bootstrap-logo-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/c2e6562c-80b0-4961-aa37-a0c5da7ccb18)
 ![icons8-react-native-48 (1)](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/760cea77-a92b-4e81-83b3-9928284c3aee)
-![icons8-nextjs-48 (2)](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/3f984379-3df5-4ee6-8b6d-acecd05eb37a)
+![icons8-nextjs-48 (3)](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/1ec2166d-edfc-48f8-8da1-3dee88a1cb7c)
 ![icons8-vuejs-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/e905c4ac-f412-45a2-9d72-e7b7e401ded5)
 
 ANDROID TECHNOLOGIES:
