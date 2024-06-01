@@ -49,7 +49,6 @@
 
 ✩✩▁𝐃𝐞𝐯𝐨𝐩𝐬▁✩✩
 
-![icons8-amazon-web-services](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/32e7e569-6361-4bf6-9d72-fcec53ffbeeb)
 ![icons8-kubernetes-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/3228b2d9-252e-4eab-8f92-78d538d93947)
 ![icons8-docker-a-set-of-coupled-software-as-a-service-48](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/bf50ae20-f14c-471d-ac01-4fbbb042cf7f)
 
