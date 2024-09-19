@@ -5,7 +5,7 @@
 - 👨‍💻 I'm currently Working as a Android![icons8-android-logo-24](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/80e7b000-cc9d-4232-872d-100284dd1c91)Developer
 - 🌱 I’m currently learning Kotlin and Android
 - Contact me for developing Budget Friendly Websites and Mobile Apps for both Android and IOS 
-- 📫 How to reach me "harikrishnabaskaran12@gmail.com" &  & (![icons8-whatsapp-16](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/3309b025-3a6e-49d7-996b-875c868778a4)+91 8870938014)
+- 📫 How to reach me "harikrishnabaskaran12@gmail.com" &  (![icons8-whatsapp-16](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/3309b025-3a6e-49d7-996b-875c868778a4)+91 8870938014)
 - Ready to do Freelancing![icons8-workspace-32 (1)](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/cafdff1b-a5d3-4779-9b64-7376837462bd)
   
 
