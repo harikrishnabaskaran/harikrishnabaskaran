@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Kotlin and Android
 - Contact me for developing Budget Friendly Websites and Mobile Apps for both Android and IOS 
 - 📫 How to reach me "harikrishnabaskaran12@gmail.com" &  (![icons8-whatsapp-16](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/3309b025-3a6e-49d7-996b-875c868778a4)+91 8870938014)
-- Ready to do Freelancing![icons8-workspace-32 (1)](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/cafdff1b-a5d3-4779-9b64-7376837462bd)
+
   
 
 "𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬, 𝐰𝐡𝐢𝐜𝐡 𝐈 𝐡𝐚𝐯𝐞 𝐛𝐞𝐞𝐧 𝐰𝐨𝐫𝐤𝐞𝐝 👨‍💻"
