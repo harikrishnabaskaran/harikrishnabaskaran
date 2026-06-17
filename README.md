@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @🅷🅰🆁🅸 🅺🆁🅸🆂🅷🅽🅰
 - 👀 I’m interested in Web Development![icons8-web-24](https://github.com/harikrishnabaskaran/harikrishnabaskaran/assets/136921665/306ac858-d8a3-4f0f-9f62-2aed59b1d24f)
-- 🌱 I’m currently learning about Robotics
+- 🌱 I’m currently learning Robotics
 - 📫 How to reach me "harikrishnabaskaran2002@gmail.com"
 
   
