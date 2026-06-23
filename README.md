@@ -316,6 +316,8 @@ timeline
 
 <!-- ████████████████████████  CONTRIBUTION ACTIVITY — REPLACES BROKEN SNAKE  ████████████████████████ -->
 
+## 📊 Contribution Activity
+
 <div align="center">
   <img src="https://ghchart.rshah.org/58A6FF/harikrishnabaskaran" alt="GitHub Contribution Heatmap" width="97%" />
 </div>
@@ -326,45 +328,80 @@ timeline
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harikrishnabaskaran&bg_color=0D1117&color=58A6FF&line=9D4EDD&point=FF6B6B&area=true&area_color=9D4EDD55&hide_border=true&radius=8&custom_title=Contribution+Graph+—+All+Years" width="97%" />
 </div>
 
+<br/>
 
+<!-- ████████████████████████  PROGRAMMING LANGUAGES GRAPH  ████████████████████████ -->
+
+## 💻 Programming Languages & Tech Skills
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,python,nodejs,mongodb,graphql,docker,redux&theme=dark&perline=5" />
+</div>
 
 <br/>
 
-Create `.github/workflows/snake.yml` inside your profile repository (`harikrishnabaskaran/harikrishnabaskaran`):
-
-```yaml
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs daily at midnight
-  workflow_dispatch:         # lets you trigger it manually too
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-creator@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': {'xyChart': {'backgroundColor': '#0D1117', 'plotColorPalette': '#58A6FF,#9D4EDD,#4ECDC4,#FF6B6B,#F7DF1E,#339933,#E10098,#2CA5E0'}, 'fontFamily': 'monospace'}}}%%
+xychart-beta horizontal
+    title "Tech Proficiency (%)"
+    x-axis ["React.js", "JavaScript", "REST APIs", "TypeScript", "Node.js", "Python", "Next.js", "MongoDB"]
+    y-axis "Proficiency" 0 --> 100
+    bar [95, 95, 90, 85, 82, 80, 72, 80]
 ```
 
-After the workflow runs once (go to **Actions → Run workflow**), replace the heatmap image above with:
-```
-https://raw.githubusercontent.com/harikrishnabaskaran/harikrishnabaskaran/output/github-snake-dark.svg
-```
+<br/>
 
-</details>
+<div align="center">
+
+| 🏷️ Category | 🛠️ Technologies | 📊 Level |
+|:---:|:---|:---:|
+| **Frontend** | React.js · Next.js · TypeScript · JavaScript · Redux | ⭐⭐⭐⭐⭐ |
+| **Backend** | Node.js · Python · GraphQL · REST APIs · Context API | ⭐⭐⭐⭐⭐ |
+| **Database** | MongoDB · Mongoose · Indexing & Query Optimization | ⭐⭐⭐⭐ |
+| **DevOps** | Docker · Git · GitHub Actions · CI/CD | ⭐⭐⭐⭐ |
+| **UI Libraries** | Material UI · Bootstrap · Fluent UI · Chart.js | ⭐⭐⭐⭐⭐ |
+| **ML / AI** | Python · CNN · Random Forest · OpenCV · Kaggle | ⭐⭐⭐ |
+
+</div>
 
 ---
 
+<!-- ████████████████████████  EDUCATION  ████████████████████████ -->
+
+## 🎓 Education
+
+<div align="center">
+
+| Degree | Institution | Year |
+|:---|:---|:---:|
+| 🤖 M.Sc. Robotics & Autonomous Systems | University of Lübeck 🇩🇪 | Apr 2026 – Present |
+| 💻 B.E. Computer Science & Engineering &nbsp;`Grade: 1.9` | S.A. Engineering College, Chennai 🇮🇳 | Apr 2024 |
+
+</div>
+
+---
+
+<!-- ████████████████████████  LANGUAGE PROFICIENCY — REDESIGNED  ████████████████████████ -->
+
+## 🌍 Language Proficiency
+
+<br/>
+
+<div align="center">
+
+<table border="0" cellpadding="24" cellspacing="0">
+<tr>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/🇬🇧%20%20English-C1%20Advanced-1565C0?style=for-the-badge&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/A1-✔-4CAF50?style=flat-square&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/A2-✔-4CAF50?style=flat-square&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/B1-✔-4CAF50?style=flat-square&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/B2-✔-4CAF50?style=flat-square&labelColor=1a1b27" />
 <!-- ████████████████████████  EDUCATION  ████████████████████████ -->
 
 ## 🎓 Education
