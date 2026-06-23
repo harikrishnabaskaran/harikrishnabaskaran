@@ -209,16 +209,7 @@ timeline
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harikrishnabaskaran&bg_color=0D1117&color=58A6FF&line=9D4EDD&point=FFFFFF&area=true&area_color=9D4EDD&hide_border=true&radius=10&custom_title=📈+Contribution+Activity+2024–2026" width="97%" />
 </div>
 
----
 
-<!-- ████████████████████████  TROPHIES — FIXED  ████████████████████████ -->
-
-
-<!-- <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harikrishnabaskaran&theme=tokyonight&margin-w=8&margin-h=8&column=-1&no-frame=true&rank=SECRET" width="60%" />
-</div> -->
-
----
 
 <!-- ████████████████████████  LANGUAGE DISTRIBUTION (CODE)  ████████████████████████ -->
 
