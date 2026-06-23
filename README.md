@@ -213,13 +213,6 @@ timeline
 
 <!-- ████████████████████████  TROPHIES — FIXED  ████████████████████████ -->
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harikrishnabaskaran&theme=algolia&margin-w=8&margin-h=8&column=-1&no-frame=false" width="100%" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=harikrishnabaskaran&theme=tokyonight&margin-w=8&margin-h=8&column=-1&no-frame=true&rank=SECRET" width="60%" />
@@ -347,7 +340,7 @@ timeline
 <br/>
 
 <details>
-<summary>🐍 &nbsp;Enable Snake Animation (one-time GitHub Actions setup)</summary>
+
 
 <br/>
 
