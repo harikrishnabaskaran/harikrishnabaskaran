@@ -321,11 +321,9 @@ timeline
 
 </div>
 
----
+
 
 <!-- ████████████████████████  CONTRIBUTION ACTIVITY — REPLACES BROKEN SNAKE  ████████████████████████ -->
-
-## 📊 Contribution Activity
 
 <div align="center">
   <img src="https://ghchart.rshah.org/58A6FF/harikrishnabaskaran" alt="GitHub Contribution Heatmap" width="97%" />
@@ -339,7 +337,6 @@ timeline
 
 <br/>
 
-<details>
 
 
 <br/>
