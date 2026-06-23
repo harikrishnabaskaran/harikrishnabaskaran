@@ -335,8 +335,6 @@ timeline
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harikrishnabaskaran&bg_color=0D1117&color=58A6FF&line=9D4EDD&point=FF6B6B&area=true&area_color=9D4EDD55&hide_border=true&radius=8&custom_title=Contribution+Graph+—+All+Years" width="97%" />
 </div>
 
-<br/>
-
 
 
 <br/>
