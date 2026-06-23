@@ -214,9 +214,9 @@ timeline
 <!-- ████████████████████████  TROPHIES — FIXED  ████████████████████████ -->
 
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=harikrishnabaskaran&theme=tokyonight&margin-w=8&margin-h=8&column=-1&no-frame=true&rank=SECRET" width="60%" />
-</div>
+</div> -->
 
 ---
 
