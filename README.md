@@ -338,18 +338,7 @@ timeline
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,python,nodejs,mongodb,graphql,docker,redux&theme=dark&perline=5" />
 </div>
 
-<br/>
 
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': {'xyChart': {'backgroundColor': '#0D1117', 'plotColorPalette': '#58A6FF,#9D4EDD,#4ECDC4,#FF6B6B,#F7DF1E,#339933,#E10098,#2CA5E0'}, 'fontFamily': 'monospace'}}}%%
-xychart-beta horizontal
-    title "Tech Proficiency (%)"
-    x-axis ["React.js", "JavaScript", "REST APIs", "TypeScript", "Node.js", "Python", "Next.js", "MongoDB"]
-    y-axis "Proficiency" 0 --> 100
-    bar [95, 95, 90, 85, 82, 80, 72, 80]
-```
-
-<br/>
 
 <div align="center">
 
