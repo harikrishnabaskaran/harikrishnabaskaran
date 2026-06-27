@@ -173,42 +173,64 @@ timeline
 
 <!-- ████████████████████████  GITHUB STATS — DETAILED  ████████████████████████ -->
 
-## 📈 GitHub Stats — 2024 · 2025 · 2026
+## 📈 GitHub Stats — Live Overview
 
-> All metrics include private repositories across **2024, 2025 and 2026**
+> All metrics include private repositories and public activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harikrishnabaskaran&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=9D4EDD&text_color=C9D1D9&ring_color=9D4EDD&show=reviews,prs_merged,prs_merged_percentage&rank_icon=github" height="185" />
+
+  <!-- MAIN STATS (Single Source of Truth) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=harikrishnabaskaran&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=9D4EDD&text_color=C9D1D9&ring_color=9D4EDD" height="185" />
+
+  <!-- STREAK (Consistency metric) -->
   <img src="https://streak-stats.demolab.com?user=harikrishnabaskaran&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=9D4EDD&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=A0C4FF" height="185" />
+
 </div>
 
 <br/>
 
 <div align="center">
+
+  <!-- LANGUAGES -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harikrishnabaskaran&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="205" />
+
+  <!-- OVERALL STATS SUMMARY (MOST RELIABLE TOTAL VIEW) -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harikrishnabaskaran&theme=tokyonight" height="205" />
+
+  <!-- PRODUCTIVE TIME -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harikrishnabaskaran&theme=tokyonight&utcOffset=2" height="205" />
+
 </div>
 
 <br/>
 
 <div align="center">
+
+  <!-- REPO LANGUAGE DISTRIBUTION -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harikrishnabaskaran&theme=tokyonight" height="175" />
+
+  <!-- MOST USED LANGUAGE -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harikrishnabaskaran&theme=tokyonight" height="175" />
+
 </div>
 
 <br/>
 
 <div align="center">
+
+  <!-- PROFILE DETAILS -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harikrishnabaskaran&theme=tokyonight" width="96%" />
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harikrishnabaskaran&bg_color=0D1117&color=58A6FF&line=9D4EDD&point=FFFFFF&area=true&area_color=9D4EDD&hide_border=true&radius=10&custom_title=📈+Contribution+Activity+2024–2026" width="97%" />
-</div>
 
+  <!-- CONTRIBUTION GRAPH -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harikrishnabaskaran&bg_color=0D1117&color=58A6FF&line=9D4EDD&point=FFFFFF&area=true&area_color=9D4EDD&hide_border=true&radius=10&custom_title=📈+Contribution+Activity" width="97%" />
+
+</div>
 
 
 <!-- ████████████████████████  LANGUAGE DISTRIBUTION (CODE)  ████████████████████████ -->
