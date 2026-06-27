@@ -180,11 +180,28 @@ timeline
 <div align="center">
 
   <!-- MAIN STATS (Single Source of Truth) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=harikrishnabaskaran&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=9D4EDD&text_color=C9D1D9&ring_color=9D4EDD" height="185" />
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=harikrishnabaskaran&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=9D4EDD&text_color=C9D1D9&ring_color=9D4EDD" height="185" />-->
 
   <!-- STREAK (Consistency metric) -->
-  <img src="https://streak-stats.demolab.com?user=harikrishnabaskaran&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=9D4EDD&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=A0C4FF" height="185" /> 
+  <!--<img src="https://streak-stats.demolab.com?user=harikrishnabaskaran&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=9D4EDD&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=A0C4FF" height="185" /> -->
+## 📊 GitHub Contributions Overview
 
+<p align="center">
+
+  <!-- TOTAL STATS (includes private contributions if enabled in GitHub settings) -->
+ <!--  <img src="https://github-readme-stats.vercel.app/api?username=harikrishnabaskaran&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=9D4EDD&text_color=C9D1D9" height="185"/>-->
+
+  <!-- STREAK (activity consistency) -->
+  <img src="https://streak-stats.demolab.com?user=harikrishnabaskaran&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=9D4EDD&fire=FF6B6B&currStreakLabel=58A6FF" height="185"/>
+
+</p>
+
+
+
+  <!-- ACTIVITY GRAPH -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harikrishnabaskaran&bg_color=0D1117&color=58A6FF&line=9D4EDD&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+
+</p>
 </div>
 
 <br/>
