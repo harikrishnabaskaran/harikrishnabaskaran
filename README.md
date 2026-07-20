@@ -199,48 +199,11 @@ timeline
 
 
   <!-- ACTIVITY GRAPH -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harikrishnabaskaran&bg_color=0D1117&color=58A6FF&line=9D4EDD&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+ 
 
 </p>
 </div>
 
-<br/>
-
-<div align="center">
-
-  <!-- LANGUAGES -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harikrishnabaskaran&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="205" />
-
-  <!-- OVERALL STATS SUMMARY (MOST RELIABLE TOTAL VIEW) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harikrishnabaskaran&theme=tokyonight" height="205" />
-
-  <!-- PRODUCTIVE TIME -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harikrishnabaskaran&theme=tokyonight&utcOffset=2" height="205" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <!-- REPO LANGUAGE DISTRIBUTION -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harikrishnabaskaran&theme=tokyonight" height="175" />
-
-  <!-- MOST USED LANGUAGE -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harikrishnabaskaran&theme=tokyonight" height="175" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <!-- PROFILE DETAILS -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harikrishnabaskaran&theme=tokyonight" width="96%" />
-
-</div>
-
-<br/>
 
 <div align="center">
 
